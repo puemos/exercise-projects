@@ -18,8 +18,7 @@ You are free to use plain HTML, CSS, and JavaScript—no frameworks are required
 ### Core Functionality
 
 1. **Fetch and Display Products**
-   - Fetch all products from:  
-     `GET https://fakestoreapi.com/products`
+   - Fetch all products from: `GET https://fakestoreapi.com/products`
    - Display the products in a grid or list layout.
 
 2. **Category Selection**
@@ -85,3 +84,10 @@ You are free to use plain HTML, CSS, and JavaScript—no frameworks are required
     "count": 120
   }
 }
+```
+
+---
+
+## Wireframe
+
+![./wireframe.svg](./wireframe.svg)
