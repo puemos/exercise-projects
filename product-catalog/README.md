@@ -1,4 +1,4 @@
-# Front-End Take-Home Coding Challenge
+# Product Catalog: Front-End Take-Home Coding Challenge
 
 ## Overview
 
